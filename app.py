@@ -4,6 +4,10 @@ st.set_page_config(page_title="Delorean Main Page")
 
 st.header('Delorean Links')
 
+link00 = "https://drive.google.com/drive/folders/1Lek27C3Nw2QASHphTO0Lef-M60vZkQXc"
+text00 = "Link"
+st.markdown(f'<div style="font-size: 20px;">Shared Google Drive <a target="_blank" href="{link00}">{text00}</a></div>', unsafe_allow_html=True)
+
 link0 = "https://dl-screener.streamlit.app"
 text0 = "Link"
 st.markdown(f'<div style="font-size: 20px;">DL Screener Streamlit <a target="_blank" href="{link0}">{text0}</a></div>', unsafe_allow_html=True)
