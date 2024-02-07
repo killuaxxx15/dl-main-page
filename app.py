@@ -34,7 +34,7 @@ st.markdown(f'<div style="font-size: 20px;">US Stock Charts <a target="_blank" h
 
 link6 = "https://india-stock-model.streamlit.app"
 text6 = "Link"
-st.markdown(f'<div style="font-size: 20px;">India Model Streamlit <a target="_blank" href="{link6}">{text6}</a></div>', unsafe_allow_html=True)
+st.markdown(f'<div style="font-size: 20px;">India Charts Streamlit <a target="_blank" href="{link6}">{text6}</a></div>', unsafe_allow_html=True)
 
 link7 = "https://drive.google.com/file/d/1V60lDnSXZrDjUV9yE-si-8nRRADsWwkc/view"
 text7 = "Link"
