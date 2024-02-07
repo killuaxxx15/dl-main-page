@@ -10,7 +10,7 @@ st.markdown(f'<div style="font-size: 20px;">Shared Google Drive <a target="_blan
 
 link0 = "https://dl-screener.streamlit.app"
 text0 = "Link"
-st.markdown(f'<div style="font-size: 20px;">DL Screener Streamlit <a target="_blank" href="{link0}">{text0}</a></div>', unsafe_allow_html=True)
+st.markdown(f'<div style="font-size: 20px;">DL Stock Screener Streamlit <a target="_blank" href="{link0}">{text0}</a></div>', unsafe_allow_html=True)
 
 link1 = "https://momentum-monitor.streamlit.app/Momentum_Monitor"
 text1 = "Link"
